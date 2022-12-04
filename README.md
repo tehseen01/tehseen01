@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://codebyishan.netlify.app](https://codebyishan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tehseen.netlify.app](https://tehseen.netlify.app)
 
-- 📫 How to reach me **codebyishan@gmail.com**
+- 📫 How to reach me **tehseen.type@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

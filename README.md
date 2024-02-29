@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am _Mohd Tehseen_. I'm a passionate **Front-end Developer** 🚀 leveraging JavaScript/TypeScript and modern web technologies to build innovative applications and creating seamless user experiences. I’ve honed my skills in JavaScript, TypeScript, ReactJS, NextJS, TailwindCSS, NodeJS, and more. I’m on a continuous quest to absorb new and trending technologies, ensuring that my toolkit is ever-expanding and up-to-date. Let’s connect and craft the digital future together!
+I am _Mohd Tehseen_. I'm a passionate **Front-end Developer** 🚀 leveraging JavaScript/TypeScript and modern web technologies to build innovative applications and creating seamless user experiences. With over a year of remote work under my belt. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer. Let’s connect and craft the digital future together!
 
 ### 🌟 Technologies I've worked with:
 

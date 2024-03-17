@@ -2,6 +2,8 @@
 
 I am _Mohd Tehseen_. I'm a passionate **Front-end Developer** 🚀 leveraging JavaScript/TypeScript and modern web technologies to build innovative applications and creating seamless user experiences. With over a year of remote work under my belt. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer. Let’s connect and craft the digital future together!
 
+🚀 Currently working on [(Tensity-AI)](https://github.com/tehseen01/tensity-ai): AI web app for PDFs, Text & Voice. Ask questions about PDFs, convert text to natural speech, and extract text from voice recordings. All powered by AI!
+
 ### 🌟 Technologies I've worked with:
 
 - Javascript
@@ -31,7 +33,7 @@ I am _Mohd Tehseen_. I'm a passionate **Front-end Developer** 🚀 leveraging Ja
 - E-commerce - A simple Nextjs shopping app [(link)](https://dev-shopp.vercel.app/)
 
 ### 📫 How to reach me?
-**tehseen.type@gmail.com**
+**work.tehseen@gmail.com**
 <p align="left">
 <a href="https://twitter.com/tehseen_type" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tehseen_type" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd-tehseen-962635271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-tehseen-962635271" height="30" width="40" /></a>
